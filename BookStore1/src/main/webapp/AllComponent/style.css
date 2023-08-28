@@ -1,0 +1,13 @@
+@charset "UTF-8";
+.bg-custom{
+	background-color: #4a148c;
+}
+.bg1{
+	background-color: rgb(197, 202, 233);
+}
+.nav-item a:hover{
+	background-color: ghostwhite;
+	color: #4a148c !important;
+	border-radius: 10px;
+	font-weight: bold;
+}

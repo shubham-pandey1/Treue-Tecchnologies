@@ -1,0 +1,52 @@
+@options
+@packages
+-classpath
+'C:/Users/wwwsh/.m2/repository/com/toedter/jcalendar/1.4/jcalendar-1.4.jar;C:/Users/wwwsh/.m2/repository/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar;C:/Users/wwwsh/.m2/repository/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'18'
+-sourcepath
+'D:/Java-Programming/Netbeans/ElectionMgmtSystem/src/main/java;D:/Java-Programming/Netbeans/ElectionMgmtSystem/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Java-Programming/Netbeans/ElectionMgmtSystem/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ElectionMgmtSystem 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'ElectionMgmtSystem 1.0-SNAPSHOT API'
+com.mycompany.electionmgmtsystem
+com.mycompany.frame
+C:\Users\wwwsh\.m2\repository\com\toedter\jcalendar\1.4\jcalendar-1.4.jar = 1692418165271
+C:\Users\wwwsh\.m2\repository\com\mysql\mysql-connector-j\8.0.33\mysql-connector-j-8.0.33.jar = 1688299013088
+C:\Users\wwwsh\.m2\repository\com\google\protobuf\protobuf-java\3.21.9\protobuf-java-3.21.9.jar = 1692786310119
+D:\Java-Programming\Netbeans\ElectionMgmtSystem\src\main\java = 1692753055476
+D:\Java-Programming\Netbeans\ElectionMgmtSystem\target\generated-sources\annotations = 1693135196668
+D:\Java-Programming\Netbeans\ElectionMgmtSystem\target\apidocs\allclasses-index.html = 1693135207027
+D:\Java-Programming\Netbeans\ElectionMgmtSystem\target\apidocs\allpackages-index.html = 1693135207027
+D:\Java-Programming\Netbeans\ElectionMgmtSystem\target\apidocs\copy.svg = 1693135207183
+D:\Java-Programming\Netbeans\ElectionMgmtSystem\target\apidocs\element-list = 1693135206454
+D:\Java-Programming\Netbeans\ElectionMgmtSystem\target\apidocs\help-doc.html = 1693135207136
+D:\Java-Programming\Netbeans\ElectionMgmtSystem\target\apidocs\index-all.html = 1693135207120
+D:\Java-Programming\Netbeans\ElectionMgmtSystem\target\apidocs\index.html = 1693135206924
+D:\Java-Programming\Netbeans\ElectionMgmtSystem\target\apidocs\jquery-ui.overrides.css = 1693135207254
+D:\Java-Programming\Netbeans\ElectionMgmtSystem\target\apidocs\member-search-index.js = 1693135207027
+D:\Java-Programming\Netbeans\ElectionMgmtSystem\target\apidocs\module-search-index.js = 1693135207027
+D:\Java-Programming\Netbeans\ElectionMgmtSystem\target\apidocs\overview-summary.html = 1693135207120
+D:\Java-Programming\Netbeans\ElectionMgmtSystem\target\apidocs\overview-tree.html = 1693135206917
+D:\Java-Programming\Netbeans\ElectionMgmtSystem\target\apidocs\package-search-index.js = 1693135207027
+D:\Java-Programming\Netbeans\ElectionMgmtSystem\target\apidocs\script.js = 1693135207183
+D:\Java-Programming\Netbeans\ElectionMgmtSystem\target\apidocs\search.js = 1693135207199
+D:\Java-Programming\Netbeans\ElectionMgmtSystem\target\apidocs\serialized-form.html = 1693135206780
+D:\Java-Programming\Netbeans\ElectionMgmtSystem\target\apidocs\stylesheet.css = 1693135207152
+D:\Java-Programming\Netbeans\ElectionMgmtSystem\target\apidocs\tag-search-index.js = 1693135207027
+D:\Java-Programming\Netbeans\ElectionMgmtSystem\target\apidocs\type-search-index.js = 1693135207027
